@@ -1,0 +1,9 @@
+total 15
+drwxr-xr-x 1 user 197121   0 Jun  7 12:14 ./
+drwxr-xr-x 1 user 197121   0 Jun  6 11:48 ../
+drwxr-xr-x 1 user 197121   0 Jun  7 12:13 .git/
+-rw-r--r-- 1 user 197121  23 Jun  6 13:25 .gitignore
+drwxr-xr-x 1 user 197121   0 Jun  7 09:19 .idea/
+-rw-r--r-- 1 user 197121 238 Jun  6 23:58 index.html
+-rw-r--r-- 1 user 197121   0 Jun  7 12:14 nesto.txt
+-rw-r--r-- 1 user 197121  51 Jun  6 23:58 style.css
